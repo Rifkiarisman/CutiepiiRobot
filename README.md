@@ -1,4 +1,4 @@
-![Inumaki](https://telegra.ph/file/40fc335f85ac508799583.jpg)
+![Inumaki](https://telegra.ph/file/f06da1d8ea23a17c9b829.jpg)
 # Inumaki SuperBot
 
 A modular telegram Python bot running on python3 with an sqlalchemy, Redis, mongodb database.
